@@ -77,7 +77,7 @@ Data-driven insights platform for business performance
 
 <p>
 <b>Backend</b><br/>
-<img src="https://skillicons.dev/icons?i=django,fastapi" /> REST APIs • Postman
+<img src="https://skillicons.dev/icons?i=django,fastapi,postman" />  
 </p>
 
 <p>
@@ -85,10 +85,6 @@ Data-driven insights platform for business performance
 <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-<p>
-<b>AI / ML</b><br/>
-NLP (NER, Classification) • TensorFlow • LLM Prompt Engineering
-</p>
 
 <p>
 <b>Databases</b><br/>
@@ -97,7 +93,12 @@ NLP (NER, Classification) • TensorFlow • LLM Prompt Engineering
 
 <p>
 <b>Tools</b><br/>
-<img src="https://skillicons.dev/icons?i=git,github" /> N8N • WordPress
+<img src="https://skillicons.dev/icons?i=git,github,wordpress" />
+</p>
+
+<p>
+<b>AI / ML</b><br/>
+NLP (NER, Classification) • TensorFlow • LLM Prompt Engineering
 </p>
 
 <p>

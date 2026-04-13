@@ -54,7 +54,7 @@ IoT-based vehicle tracking with real-time monitoring
 Data-driven insights platform for business performance  
 
 🔧 **Tech:** SQL, Analytics, Dashboard  
-🔗 [View Repository](https://github.com/rak2k6/restaurant-analytics)
+🔗 [View Repository](https://github.com/rak2k6/Restaurant-Analytics)
 
 </td>
 </tr>

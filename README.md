@@ -54,7 +54,7 @@ IoT-based vehicle tracking with real-time monitoring
 Data-driven insights platform for business performance  
 
 🔧 **Tech:** SQL, Analytics, Dashboard  
-🔗 [View Repository](https://github.com/rak2k6/Restaurant-Analytics)
+🔗 [View Repository](https://github.com/Rak2k6/Restuarant-Analytics)
 
 </td>
 </tr>
@@ -119,7 +119,7 @@ DSA • OOP • DBMS
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rak2k6)](https://github.com/yourusername)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rak2k6)](https://github.com/rak2k6)
 
 ---
 

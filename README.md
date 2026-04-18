@@ -9,7 +9,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=000000&center=true&vCenter=true&width=500&lines=AI+%26+Full-Stack+Developer;Building+Scalable+Real-World+Systems;IoT+%7C+SaaS+%7C+Automation" />
   </picture>
 </p>
-## 💡 About Me
+
+---
+## About Me☺️
 
 - 🚀 Building **AI-powered, scalable products**
 - 🧠 Strong focus on **real-world problem solving**

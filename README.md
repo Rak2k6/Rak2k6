@@ -1,11 +1,14 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Rakesh</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=2F81F7&center=true&vCenter=true&width=500&lines=AI+%26+Full-Stack+Developer;Building+Scalable+Real-World+Systems;IoT+%7C+SaaS+%7C+Automation" />
-</h3>
-
----
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=FFFFFF&center=true&vCenter=true&width=500&lines=AI+%26+Full-Stack+Developer;Building+Scalable+Real-World+Systems;IoT+%7C+SaaS+%7C+Automation" />
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=000000&center=true&vCenter=true&width=500&lines=AI+%26+Full-Stack+Developer;Building+Scalable+Real-World+Systems;IoT+%7C+SaaS+%7C+Automation" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=000000&center=true&vCenter=true&width=500&lines=AI+%26+Full-Stack+Developer;Building+Scalable+Real-World+Systems;IoT+%7C+SaaS+%7C+Automation" />
+  </picture>
+</p>
 ## 💡 About Me
 
 - 🚀 Building **AI-powered, scalable products**
